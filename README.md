@@ -1,7 +1,7 @@
 # McDonald's Community Management
 This project contains : 
 
-* Web Scrapping
+* Web Scraping
 * NLP
 * Opinion Mining
 * Topic Mining
